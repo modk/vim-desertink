@@ -327,7 +327,7 @@ if has("gui_running") || &t_Co == 88 || &t_Co == 256
   call <SID>X("Constant", "ff8080", "", "")
   call <SID>X("Identifier", "98fb98", "", "none")
   call <SID>X("Statement", "f0e260", "", "bold")
-  call <SID>X("PreProc", "cd5c5c", "", "bold")
+  call <SID>X("PreProc", "e8b15d", "", "bold")
   call <SID>X("Type", "91b365", "", "bold")
   call <SID>X("Special", "ffc266", "", "")
   "Underlined
